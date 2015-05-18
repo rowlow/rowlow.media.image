@@ -1,0 +1,9 @@
+@import "settings";
+@import "mixins";
+@import "functions";
+
+img.#{$rowlow-image-namespace}responsive{
+	width: 100%;
+	max-width: 100%;
+	height: auto;
+}
