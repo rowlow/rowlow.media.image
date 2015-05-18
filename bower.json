@@ -1,0 +1,26 @@
+{
+  "name": "rowlow.media.image",
+  "version": "0.1.0",
+  "homepage": "http://rowlow.github.io",
+  "authors": [
+    "Roland Lösslein <info@weaintplastic.com>"
+  ],
+  "description": "A module for displaying responsive images",
+  "main": "main.scss",
+  "keywords": [
+    "image",
+    "responsive",
+    "rowlow"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "rowlow.settings.default": "~0.1.2"
+  }
+}
